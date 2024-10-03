@@ -1,4 +1,4 @@
-# REST-API-with-Advanced-Operations
+# RESTful-API-with-Advanced-Operations
 This project is a Python-based REST API capable of handling structured JSON data with advanced CRUD operations, validation, and security mechanisms. 
 
 ## Features
